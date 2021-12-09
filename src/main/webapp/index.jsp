@@ -2,7 +2,8 @@
 <body>
 <h2> Hello Friends! </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!! </h3>
-<h4> Faizan Sameera Imdad_ Release_1.0.0 </h4>
+<h4> Faizan Sameera Imdad </h4>
+<h5> Release_2.0.0</h5>
 <marquee behavior="alternate">Devops</marquee>
 <font color="WHITE"><marquee direction="left"
 style="background:RED">DEVOPS</marquee></font>
